@@ -36,7 +36,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
    Navigate to you respective project directory
 
-# Usage
+## Usage
 Once you've set up the project, you can start using it:
 1. Start the development server:
     ```bash
