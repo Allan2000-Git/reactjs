@@ -1,6 +1,6 @@
 # React Hooks Project
 
-![React Logo](react-logo.png)
+![React Logo]([react-logo.png](https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png))
 
 ## Overview
 
