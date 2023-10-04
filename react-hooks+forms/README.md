@@ -1,6 +1,6 @@
 # React Hooks Project
 
-[![React Logo](https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png)
+![React Logo](https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png)
 
 ## Overview
 
