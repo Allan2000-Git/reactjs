@@ -5,7 +5,7 @@ const Heading = () => {
   return (
     <>
         <header>
-            <h1>LIST OF TOP {SeriesData.length} GLOBAL SERIES</h1>
+            <h1>LIST OF TOP {SeriesData.length} GLOBAL SERIES </h1>
         </header>
     </>
   )

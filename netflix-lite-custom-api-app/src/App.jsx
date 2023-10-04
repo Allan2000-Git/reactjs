@@ -40,7 +40,10 @@ const App = () => {
             />
         )
         })}*/}
-        <FavCat/>
+
+        {/*<FavCat/>*/}
+
+        {favCategory === 'Netflix' ? <Netflix/> : <Amazon/>}
     </>
   )
 }
