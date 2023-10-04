@@ -4,7 +4,7 @@ const CardInfo = (props) => {
   return (
     <>
         <div className='card-info'>
-        <span>AN ORIGINAL SERIES</span>
+        <span>{props.category}</span>
         <h2>{props.title}</h2>
         <a href={props.link}>
         <button id='watch'>Watch Now</button>

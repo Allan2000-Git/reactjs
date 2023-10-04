@@ -40,7 +40,7 @@ header{
 
 .card:hover{
     box-shadow: 14px 14px -17px rgba(0, 0, 0, 1);
-    transform: scale(1.1);
+    transform: scale(1.025);
 }
 
 .card-info {

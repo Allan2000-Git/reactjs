@@ -6,7 +6,7 @@ function Card(props) {
       <div className='card-container'>  
         <div className='card'>
           <img src={props.poster_path} alt=""/>
-          <CardInfo title={props.title} link={props.link}/>
+          <CardInfo category={props.category} title={props.title} link={props.link}/>
         </div>   
       </div>
     </>
